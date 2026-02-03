@@ -38,3 +38,11 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
+
+## Credit
+
+This project uses the `ddgs` package from PyPI: https://pypi.org/project/ddgs/
+
+## Disclaimer
+
+Search results and extracted content are provided by third-party sources. Content accuracy, availability, and licensing are subject to the original publishers.
